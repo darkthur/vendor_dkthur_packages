@@ -27,7 +27,7 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 LOCAL_MODULE := substratumkey
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES := substratukey/substratumkey.apk
+LOCAL_SRC_FILES := substratukey/SubstratumKey.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_MODULE_CLASS := APPS
